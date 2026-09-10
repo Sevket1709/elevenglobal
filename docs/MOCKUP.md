@@ -33,8 +33,8 @@ Der JSON-Export enthält `overrides` je Sprache. Codex soll Änderungen daraus n
 
 ## Gemeinsamer Workflow mit Codex und GitHub
 
-1. Ein gemeinsames privates GitHub-Repository als verbindlichen Quellstand wählen.
-2. Diesen Projektstand einmalig dorthin übernehmen; die aktuelle Sites-Verknüpfung ist kein GitHub-Repository.
+1. Das Repository `Sevket1709/elevenglobal` als verbindlichen Quellstand verwenden. Es ist derzeit öffentlich; Repository-Sichtbarkeit und Schutzregeln passend zur geplanten Verarbeitung festlegen.
+2. Die aktuelle Sites-Veröffentlichung und das GitHub-Repository sind technisch getrennt; Änderungen werden nicht automatisch synchronisiert.
 3. `main` enthält den abgestimmten Stand. Pro Aufgabe einen Branch verwenden, z. B. `design/contact-layout` oder `feature/contact-mail`.
 4. UI-/Inhaltstexte und technische Features als getrennte Aufgaben bearbeiten. Nicht parallel dieselben Dateien ohne Abstimmung verändern.
 5. Änderungen als Pull Request prüfen, zusammenführen und den nächsten Arbeitsstand von `main` beginnen.

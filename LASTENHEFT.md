@@ -334,18 +334,17 @@ Die folgenden Datenobjekte beschreiben fachliche Anforderungen, keine verbindlic
 5. **M4 – Genehmigte Datenquellen:** Adapter je Quelle separat aktivieren; Discovery und Aktualisierung im freigegebenen Umfang, Jobüberwachung und Sicherheitsgrenzen.
 6. **M5 – Abnahme/Betrieb:** Testfälle, PDF-Sichtprüfung, Rechtekontrolle, Backup-/Restore-Test und kontrollierter Pilot. Nachrichtenversand bleibt außerhalb dieser Freigabe.
 
-GitHub dient nach Wahl des konkreten Repositorys als gemeinsamer Arbeitsstand. Die GitHub-Erweiterung ist bei der Prüfung installiert; in diesem Arbeitsschritt wurde weder ein Ziel-Repository identifiziert noch ein Commit/Issue/PR dort erstellt. Website-Änderungen und Backend-Entwicklung erfolgen in getrennten Aufgaben/Branches. Produktive Spielerdaten, PDFs und Zugangsdaten gehören nicht ins Quellcode-Repository. Der bestehende Sites-Quellstand ist nicht automatisch mit GitHub synchronisiert.
+Das Repository [Sevket1709/elevenglobal](https://github.com/Sevket1709/elevenglobal) ist seit 10. September 2026 der gemeinsame Arbeitsstand für Codex. Website-Änderungen und Backend-Entwicklung erfolgen in getrennten Aufgaben/Branches. Produktive Spielerdaten, PDFs und Zugangsdaten gehören nicht ins Quellcode-Repository. Die veröffentlichte Sites-Fassung wird nicht automatisch mit GitHub synchronisiert.
 
 ### 8.11 Noch zu entscheidende Punkte
 
-1. Welches GitHub-Repository ist verbindlich? Bitte URL oder `Eigentümer/Repository` angeben.
-2. Welche Länder/Ligen und Fußballkategorie zuerst? Welche Altersgrenzen gelten? Vorschlag: Deutschland/DACH und Türkei, zunächst Erwachsene; nicht als bereits beschlossen behandeln.
-3. Bestehen bereits schriftliche Nutzungsfreigaben oder Datenverträge für Transfermarkt/FotMob, einschließlich interner Speicherung und Weitergabe in Vereins-PDFs? Falls nicht, Beschaffungsweg und etwaiges Lizenzbudget festlegen.
-4. Soll das allgemeine Exposé mit zwei A4-Seiten plus bedarfsweisem Quellen-/Laufbahnanhang starten? Vorschlag: Deutsch zuerst, später Englisch/Türkisch.
-5. Liegen Original-Logo und Hausschrift vor? Soll die druckfreundliche helle Variante mit Schwarz-Gold-Akzenten gelten?
-6. Bestätigung der Vorschläge zu Aktualität, Zeitplan, Pilotgröße und Betrieb sowie Benennung späterer weiterer Nutzer.
+1. Welche Länder/Ligen und Fußballkategorie zuerst? Welche Altersgrenzen gelten? Vorschlag: Deutschland/DACH und Türkei, zunächst Erwachsene; nicht als bereits beschlossen behandeln.
+2. Bestehen bereits schriftliche Nutzungsfreigaben oder Datenverträge für Transfermarkt/FotMob, einschließlich interner Speicherung und Weitergabe in Vereins-PDFs? Falls nicht, Beschaffungsweg und etwaiges Lizenzbudget festlegen.
+3. Soll das allgemeine Exposé mit zwei A4-Seiten plus bedarfsweisem Quellen-/Laufbahnanhang starten? Vorschlag: Deutsch zuerst, später Englisch/Türkisch.
+4. Liegen Original-Logo und Hausschrift vor? Soll die druckfreundliche helle Variante mit Schwarz-Gold-Akzenten gelten?
+5. Bestätigung der Vorschläge zu Aktualität, Zeitplan, Pilotgröße und Betrieb sowie Benennung späterer weiterer Nutzer.
 
-Diese offenen Punkte verhindern nicht die fachliche Abstimmung oder Entwicklung mit synthetischen Daten. Sie verhindern jedoch einen ungeprüften Live-Crawler, einen ungeklärten GitHub-Schreibzugriff beziehungsweise nicht freigegebene externe Spielerunterlagen.
+Diese offenen Punkte verhindern nicht die fachliche Abstimmung oder Entwicklung mit synthetischen Daten. Sie verhindern jedoch einen ungeprüften Live-Crawler beziehungsweise nicht freigegebene externe Spielerunterlagen.
 
 ## 9. Änderungsnachweis
 
